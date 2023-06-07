@@ -1,6 +1,6 @@
 # Speech to text
 
-A simple python code to turn audio into text that works on _Windows, macOS / OS X_ or _Linux_. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
+A simple python code to turn audio into text. Works on _Windows, macOS / OS X_ or _Linux_. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
 
 ## Installation
 
@@ -9,7 +9,7 @@ You need [Python](https://www.python.org/downloads/), as well as a [pip](https:/
 - Clone the repository
 
 ```
- git clone https://github.com/Neelfrost/nvim-config.git
+ git clone https://github.com/Valikoz/speech-to-text.git
 ```
 
 - Install python modules
