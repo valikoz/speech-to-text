@@ -105,3 +105,5 @@ if __name__ == '__main__':
         print('')
     except AuthenticationError:
         print('Openai key is wrong!')
+    except Exception as e:
+        print(e)
