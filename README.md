@@ -50,6 +50,6 @@ File path: ./sound-recordings/audio.m4a
 ```
 **Please use only the forward slash (/).**
 
-[Here](https://platform.openai.com/docs/guides/speech-to-text/introduction) is the file types are supported.
+[Here](https://platform.openai.com/docs/guides/speech-to-text/introduction) is the file types are supported. Pressing <kbd>Ctrl+C</kbd> stops process.
 
 Finally, you can find the transcribed text in the folder with audio.
