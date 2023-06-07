@@ -9,7 +9,7 @@ You need [Python](https://www.python.org/downloads/), as well as a [pip](https:/
 - Clone the repository
 
 ```
- git clone https://github.com/Valikoz/speech-to-text.git
+git clone https://github.com/Valikoz/speech-to-text.git
 ```
 
 - Install python modules
