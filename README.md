@@ -4,7 +4,7 @@ A simple python code to turn audio into text. Works on _Windows, macOS / OS X_ o
 
 ## Installation
 
-You need [Python](https://www.python.org/downloads/), as well as a [pip](https://github.com/git-guides/install-git#install-git), and [Git](https://github.com/git-guides/install-git#install-git) to clone this repo.
+You need [Python](https://www.python.org/downloads/), as well as a [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-pip-setuptools-and-wheel-are-up-to-date), and [Git](https://github.com/git-guides/install-git#install-git) to clone this repo.
 
 - Clone the repository
 
