@@ -6,8 +6,11 @@ import config
 
 
 if config.api_key == '':
-    key = input('Please enter your api key: ')
-    openai.api_key = key
+    try:
+        key = input('Please enter your api key: ')
+        openai.api_key = key
+    except KeyboardInterrupt:
+        print('')
 else:
     openai.api_key = config.api_key
 
