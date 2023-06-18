@@ -1,6 +1,6 @@
 # Speech to text
 
-A simple python code to turn audio into text. Works on _Windows, macOS / OS X_ or _Linux_. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
+A simple python code to turn audio into text. Works on _Windows, macOS / OS X_ and _Linux_. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
 
 ## Installation
 
@@ -50,6 +50,4 @@ File path: ./sound-recordings/audio.m4a
 ```
 **Please use only the forward slash (/).**
 
-[Here](https://platform.openai.com/docs/guides/speech-to-text/introduction) is the file types are supported. Pressing <kbd>Ctrl+C</kbd> stops process.
-
-Finally, you can find the transcribed text in the folder with audio.
+[Here](https://platform.openai.com/docs/guides/speech-to-text/introduction) is the file types are supported. Pressing <kbd>Ctrl+C</kbd> stops process. Finally, you can find the transcribed text in the folder with audio.
