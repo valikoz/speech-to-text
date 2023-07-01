@@ -1,6 +1,6 @@
 # Speech to text
 
-A simple python code to turn audio into text. Works on _Windows, macOS / OS X_ and _Linux_. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
+A simple python code to turn audio into text. From this [tutorial](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text-beta).
 
 ## Installation
 
