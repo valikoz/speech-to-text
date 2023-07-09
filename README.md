@@ -30,7 +30,7 @@ The OpenAI API uses API keys for authentication. Visit your [API Keys](https://p
 
 First, go into the directory with project in a terminal. _Like this:_
 ```
-cd path/to/the/project/speech-to-text
+cd ./speech-to-text
 ```
 and run `python3 main.py`. Now, you can see the following dialog
 
@@ -42,12 +42,6 @@ The next message you can see is
 
 > File path:
 
-You don't have to write full path.  For example for _Windows_ the following strings will be the same
-
-```
-File path: c:/users/user/sound-recordings/audio.m4a
-File path: ./sound-recordings/audio.m4a
-```
-**Please use only the forward slash (/).**
+It is required to specify path of audio. 
 
 [Here](https://platform.openai.com/docs/guides/speech-to-text/introduction) is the file types are supported. Pressing <kbd>Ctrl+C</kbd> stops process. Finally, you can find the transcribed text in the folder with audio.
