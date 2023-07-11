@@ -15,11 +15,11 @@ git clone https://github.com/Valikoz/speech-to-text.git
 - Install python modules
 
 ```
-pip install openai
+pip3 install openai
 ```
 
 ```
-pip install pydub
+pip3 install pydub
 ```
 
 ## Authentication
